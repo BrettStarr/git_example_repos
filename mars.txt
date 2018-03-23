@@ -3,3 +3,5 @@ Example text file for GIT repository
 Mars is class example.
 
 Mars is cold and dusty.
+
+Mars has two moons, Phobos and Demos.
